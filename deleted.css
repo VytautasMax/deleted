@@ -64,8 +64,8 @@ border: none;}
  
  
 .badge {background:#B9BD99!important;color:#0C0705!important;}
-.alert-danger {background:#594F3D!important;color:#E4E6D8!important;border-color:#171410!important;}
-.alert-success {background:#594F3D!important;color:#E4E6D8!important;border-color:#171410!important;}
+.alert-danger {background:#171410!important;color:#B9BD99!important;border-color:#0C0705!important;}
+.alert-success {background:#171410!important;color:#B9BD99!important;border-color:#0C0705!important;}
 .center.b {color:#878A75!important;}
  
  
