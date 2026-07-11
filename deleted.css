@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css?family=Indie+Flower";
 @import "https://fonts.googleapis.com/css?family=Noto+Serif";
-‎ #775139;
+‎ 
 body 
 {
 background:url('https://i.postimg.cc/3Ntpw9BP/CORVETTE.jpg');
@@ -197,16 +197,16 @@ input[type="password"] {
 
 select {
     color: black;
-    background: #FFFDF2;
+    background: #E9F2E1;
     border: black;}
  
-.topbar {background:#0C0705; color:#A87251;}
+.topbar {background:#0C0705; color:#D9E3AA;}
 .topbar a:link 
-{color:#A87251!important;
+{color:#D9E3AA!important;
 transition: 0.5s!important;}
  
 .topbar a:visited 
-{color:#A87251!important;} 
+{color:#D9E3AA!important;} 
  
 .topbar a:hover
 {color:#B9BD99!important;
@@ -214,10 +214,10 @@ text-shadow: 0px 0px 17px rgba(7, 5, 3, 1);
 transition: 0.5s!important;}
  
 .topbar a:active 
-{color:#A87251!important;}  
+{color:#D9E3AA!important;}  
  
 input[type="submit"] {
-background:#A87251;
+background:#D9E3AA;
 color:#DFE3D1;
 border: 1px solid #0C0705;
 transition: 1.0s!important;
@@ -233,7 +233,7 @@ text-shadow:none;
 box-shadow:none;}
  
 input[type="button"] {
-background:#A87251;
+background:#D9E3AA;
 color:#DFE3D1;
 border: 1px solid #0C0705;
 transition: 1.0s!important;
@@ -257,16 +257,16 @@ box-shadow:none;}
     {color: #878A75;}
 .sub_menu a:hover {color: #D0D6B8;}
 .sub_menu_item_selected {
-    background: #543929;
+    background: #544E29;
     color: #878A75;
     padding: 10px 15px;
     float: left;
     font-weight: bold;}
  
 .navbar
-{background:#0C0705;color:#A87251!important;font-size:18px!important;font-family:Crimson Text!important;}
+{background:#0C0705;color:#D9E3AA!important;font-size:18px!important;font-family:Crimson Text!important;}
  
-.navbar-default .navbar-nav > li > a {background:#0C0705;color:#A87251!important;font-family: 'Crimson Text';font-size:20px!important;}
+.navbar-default .navbar-nav > li > a {background:#0C0705;color:#D9E3AA!important;font-family: 'Crimson Text';font-size:20px!important;}
 .navbar-default .navbar-nav > li > a:hover {background:#0C0705;color:#B9BD99!important;font-family: 'Crimson Text';font-size:22px!important;transition: 0.4s!important;}
  
  
@@ -282,8 +282,8 @@ transition: 0.5s!important;}
 text-shadow: 0px 0px 17px rgba(7, 5, 3, 1);
 transition: 0.5s!important;}
  
-.progress-bar {background-color:#A87251;}
-.progress {background-color:#251912!important;}
+.progress-bar {background-color:#D9E3AA;}
+.progress {background-color:#171410!important;}
 .progress div {color:#DFE3D1;}
  
 input[type="text"]{color:black;}
