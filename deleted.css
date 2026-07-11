@@ -5,7 +5,8 @@ body
 {
 background:url('https://i.postimg.cc/3Ntpw9BP/CORVETTE.jpg');
 background-attachment:fixed;
-background-size:100%;
+background-size:cover;
+background-repeat:no-repeat;
 color: #878A75;
 }
 
