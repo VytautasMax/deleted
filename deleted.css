@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css?family=Indie+Flower";
 @import "https://fonts.googleapis.com/css?family=Noto+Serif";
-‎
+‎#775139;
 body 
 {
 background:url('https://i.postimg.cc/3Ntpw9BP/CORVETTE.jpg');
@@ -151,7 +151,7 @@ transition: 0.5s!important;
 }
  
  
-.sidebar {background:rgba(37, 25, 18, 1)!important;color:#775139;border:1px solid black;}
+.sidebar {background:rgba(37, 25, 18, 1)!important;color:#776039;border:1px solid black;}
  
 .panel-body.small{background-color:#544E29;color:#878A75;box-shadow:none;border:none;}
  
@@ -172,7 +172,7 @@ transition: 0.5s!important;
  
 .chatContainer {border:0.5px dashed #0C0705;}
  
-.chat_light {color:#0C0705;background:#775139;border-bottom:0.2px solid rgba(1,19,33,0.1);}
+.chat_light {color:#0C0705;background:#776039;border-bottom:0.2px solid rgba(1,19,33,0.1);}
  
 .chat_dark {color:#878A75;background:#544E29;border-bottom:0.2px solid rgba(1,19,33,0.1);}
 
@@ -187,12 +187,12 @@ transition: 0.5s!important;
 
 input[type="text"] {
     color: black;
-    background: #775139;
+    background: #776039;
     border-color: black;}
 
 input[type="password"] {
     color: black;
-    background: #775139;
+    background: #776039;
     border-color: black;}
 
 select {
